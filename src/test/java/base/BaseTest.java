@@ -39,7 +39,7 @@ public class BaseTest {
 
         String baseUrl = "https://www.hepsiburada.com/";
         String selectPlatform = "win";
-        String selectBrowser = "chrome";
+        String selectBrowser = "firefox";
 
         logger.info("************************************  BeforeScenario  ************************************");
         logger.info("************************************key   " + System.getProperty("key") + "   key************************************");
