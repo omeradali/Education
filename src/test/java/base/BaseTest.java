@@ -33,7 +33,7 @@ public class BaseTest {
 
 
 
-
+    // bu kısım her senaryodan önce tekrar çalışır.
     @BeforeScenario
     public void setUp() throws Exception {
 
